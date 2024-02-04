@@ -1,0 +1,8 @@
+SELECT NAME
+FROM ANIMAL_INS
+ORDER BY DATETIME 
+LIMIT 1;
+
+-- LIMIT 1
+
+-- 결과 중 첫 번째 행만을 반환하도록 제한한다.
