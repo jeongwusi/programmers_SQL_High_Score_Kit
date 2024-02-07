@@ -21,3 +21,5 @@ ORDER BY
 -- HAVING START_DATE LIKE '2022-09%'
 
 -- HAVING 절과 LIKE 연산자를 이용해서 필터링
+
+-- https://school.programmers.co.kr/learn/courses/30/lessons/151138
